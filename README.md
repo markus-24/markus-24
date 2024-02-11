@@ -1,6 +1,6 @@
-# Hello, I'm [Mark Evangelista] 👋
+# I'm Mark Evangelista 🤙
 
-I'm a [Software Developer Engineer] from [Hawaii].
+I'm a Software Developer Engineer from Hawaii.
 
 <!-- - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [What You're Learning]

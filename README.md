@@ -5,7 +5,6 @@ I'm a Software Developer Engineer from Hawaii.
 <!-- - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [What You're Learning]
 - 👯 I’m looking to collaborate on [What You Want to Collaborate On]
-- 🤔 I’m looking for help with [What You Need Help With]
 - 💬 Ask me about [What You Can Help With]
 - 📫 How to reach me: [Your Contact Information]
 - 😄 Pronouns: [Your Pronouns]
@@ -15,6 +14,10 @@ I'm a Software Developer Engineer from Hawaii.
 - Languages: [C#]
 - Frameworks/Libraries: [Your Frameworks/Libraries]
 - Tools: [Your Tools] -->
+
+📊 this week i spent my time on:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
 

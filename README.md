@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm [Mark Evangelista] 👋
 
-<!--
-**markus-24/markus-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Software Developer Engineer] from [Hawaii].
 
-Here are some ideas to get you started:
+<!-- - 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [What You're Learning]
+- 👯 I’m looking to collaborate on [What You Want to Collaborate On]
+- 🤔 I’m looking for help with [What You Need Help With]
+- 💬 Ask me about [What You Can Help With]
+- 📫 How to reach me: [Your Contact Information]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [A Fun Fact About You] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 🛠 Skills
+- Languages: [C#]
+- Frameworks/Libraries: [Your Frameworks/Libraries]
+- Tools: [Your Tools] -->
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=markus-24&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markus-24&theme=tokyonight)
+
+<!-- ## 📫 Contact Me -->
+<!-- - Twitter - [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn - [Your Name](https://linkedin.com/in/yourusername) -->
